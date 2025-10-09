@@ -1,3 +1,5 @@
 ---
 theme: midnight
+plugins:
+      - jekyll-remote-theme    
 ---
